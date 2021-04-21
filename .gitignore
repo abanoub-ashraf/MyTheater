@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/swift,cocoapods,xcode,appcode+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,cocoapods,xcode,appcode+all
 
-### Exception ###
+### Exceptions ###
 .DS_Store
 Config.swift
 
